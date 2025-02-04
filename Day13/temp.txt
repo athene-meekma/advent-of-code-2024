@@ -1,0 +1,21 @@
+Machine# 0
+08107
+0
+pressA 81081081161
+pressB 10812
+Machine# 1
+0
+0
+pressA 118679050709
+pressB 2
+Machine# 2
+91661
+9
+pressA 71266110727
+pressB 70735
+Machine# 3
+0
+0
+pressA 102851800151
+pressB 0
+0

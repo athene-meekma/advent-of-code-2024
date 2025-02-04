@@ -1,0 +1,4 @@
+r, wr, g, wu, rb, gb, br
+
+rgbwurb
+wrwurrbrbr
